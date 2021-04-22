@@ -4,5 +4,5 @@ We will be feeding sequences of images from dashcam and this model will predict 
 
 # Sample Video
 <p align="center">
-<img src="https://github.com/co17313/self-driving-car/blob/master/ezgif.com-video-to-gif.gif">
+<img src="https://github.com/co17313/self-driving-car/blob/main/ezgif.com-gif-maker.gif">
 </p>
